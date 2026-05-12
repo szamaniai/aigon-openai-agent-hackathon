@@ -1,2 +1,15 @@
 # aigon-openai-agent-hackathon
-Autonomous agent orchestration system where 413 specialized agents collaborate through 39 quality gates. Self-learning meta-optimizer continuously improves agent routing. Battle-tested on 87 MCP servers.
+
+> AIGON autonomous submission — v4.0
+
+## Architecture
+413-agent swarm → 42 Quality Gates → Meta-learning → Auto-submit
+
+## CI/CD
+GitHub Actions: quality gates on push
+
+## Tests
+
+
+## License
+MIT — AIGON Enterprise
